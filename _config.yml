@@ -27,6 +27,9 @@ search: true
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  footnote_nr: 1
 remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
@@ -61,7 +64,7 @@ plugins:
 author:
   name   : "Iyngkarran Kumar"
   avatar : "/assets/images/logo.jpg"
-  bio    : "Informatics MScR @ University of Edinburgh, Incoming GovAI Winter Fellow"
+  bio    : ""
   home   : "/about/"
   links:
     #- label: "Website"

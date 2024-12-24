@@ -24,6 +24,7 @@ twitter_username: username
 github_username: IyngkarranKumar 
 minimal_mistakes_skin: "dark"
 search: true
+homepage_url: "/about/"
 
 # Build settings
 markdown: kramdown
@@ -62,6 +63,7 @@ author:
   name   : "Iyngkarran Kumar"
   avatar : "/assets/images/logo.jpg"
   bio    : "Informatics MScR @ University of Edinburgh, Incoming GovAI Winter Fellow"
+  home   : "/about/"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -71,7 +73,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/IyngkarranKumar"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
@@ -95,7 +97,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true

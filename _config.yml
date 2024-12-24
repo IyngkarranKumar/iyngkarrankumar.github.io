@@ -24,7 +24,6 @@ twitter_username: username
 github_username: IyngkarranKumar 
 minimal_mistakes_skin: "dark"
 search: true
-homepage_url: "/about/"
 
 # Build settings
 markdown: kramdown
@@ -93,7 +92,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single

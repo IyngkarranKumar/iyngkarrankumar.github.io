@@ -1,5 +1,5 @@
 ---
-title: Functional module develpment in Abstract Visual Reasoning networks
+title: Functional Module Develpment in Abstract Visual Reasoning Networks
 layout: home
 order: 3
 ---
@@ -7,14 +7,10 @@ order: 3
 
 **Project Overview**
 
-This project explores the development and analysis of functional modules within Abstract Visual Reasoning (AVR) networks. The aim is to understand how modular structures can enhance reasoning capabilities in neural networks, particularly for tasks that require compositional and abstract visual understanding.
+This project analyses the development of functional modules in neural networks trained on abstract visual reasoning (AVR) tasks. A binary weight mask is trained on model parameters to identify the weights that are critical for the execution of a given task. 
 
-**Key Objectives**
-- Investigate the emergence and utility of functional modules in AVR networks.
-- Develop methods to identify, isolate, and interpret these modules.
-- Evaluate the impact of modularity on generalization and transfer learning in visual reasoning tasks.
-
-**Reference Paper**
 
 [Read the full paper (PDF)](/assets/docs/functional_modules.pdf)
+
+[See the codebase here](https://github.com/IyngkarranKumar/AVR-functional-modularity/tree/main)
 

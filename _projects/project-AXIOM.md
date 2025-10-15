@@ -1,7 +1,8 @@
 ---
 title: Printed Circuit Boards in Microgravity Environments (Axiom Space Stars Scholarship) 
 layout: home
-order: 4
+excerpt: Exploring the benefits to manufacturing printed circuit boards (PCBs) in low-earth orbit
+order: 6
 ---
 
 **Overview**

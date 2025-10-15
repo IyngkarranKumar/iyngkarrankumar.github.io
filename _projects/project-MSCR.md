@@ -1,6 +1,7 @@
 ---
 title: Emergent Abilities in Language Reasoning Models at Test Time
 layout: home
+excerpt: Investigating the predictability of test-time scaling in language models (MScR thesis)
 order: 1
 ---
 

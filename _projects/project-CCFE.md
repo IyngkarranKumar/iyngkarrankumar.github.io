@@ -1,7 +1,8 @@
 ---
-title: An Empirical Study of Magnetohydrodynamic Instabilities in the JET Tokamak (CCFE internship)
+title: An Empirical Study of Magnetohydrodynamic Instabilities in the JET Tokamak
 layout: home
-order: 5
+excerpt: Analysising plasma instabilities in the JET Tokamak (CCFE internship)
+order: 7
 ---
 
 I worked on this project during an internship with the Culham Center for Fusion Energy. 

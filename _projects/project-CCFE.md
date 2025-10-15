@@ -9,7 +9,7 @@ I worked on this project during an internship with the Culham Center for Fusion 
 
 **Project links:**
 
-The [full report](assets/docs/CCFE_Final_Report.pdf) from the internship
+[Read the internship report (PDF)](/assets/docs/CCFE_Final_Report.pdf)
 
 A [paper using the results from the analysis](https://iopscience.iop.org/article/10.1088/1741-4326/ac899e/meta)
 

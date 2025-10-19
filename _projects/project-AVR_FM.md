@@ -1,7 +1,7 @@
 ---
 title: Functional Module Develpment in Abstract Visual Reasoning Networks 
 layout: home
-excerpt: Tracking the specialisation of model weights in computer vision networks (undergraduate dissertation)
+excerpt: Tracking the specialisation of model weights in computer vision networks
 order: 5
 ---
 

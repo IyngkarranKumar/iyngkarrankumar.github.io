@@ -19,7 +19,7 @@ This study analyzes over 2,000 experiments from JET (the Joint European Torus, o
 </div>
 
 
-## The Challenge
+## The Problem
 
 In a functioning fusion reactor, we need to confine ultra-hot plasma using powerful magnetic fields. When fusion reactions occur, they produce high-energy particles (like alpha particles) that need to be trapped. However, certain plasma instabilities—particularly **Alfvén Eigenmodes**—can rapidly eject these particles, making energy production impossible.
 

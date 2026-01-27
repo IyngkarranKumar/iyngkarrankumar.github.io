@@ -1,5 +1,5 @@
 ---
-title: Functional Module Develpment in Abstract Visual Reasoning Networks 
+title: Functional Module Develpment in Computer Vision Networks
 layout: home
 excerpt: Tracking the specialisation of model weights in computer vision networks
 order: 5

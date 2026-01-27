@@ -8,12 +8,12 @@ order: 8
 A collection of short-writeups and projects from the past few years.
 
 **Table of Contents**
-- [Internal Coherence Maximisation (CIM) Implementation](#internal-coherence-maximisation-cim-implementation)
+- [Internal Coherence Maximisation (ICM) Implementation](#internal-coherence-maximisation-icm-implementation)
 - [Can synthetic data unblock the training data bottleneck?](#can-synthetic-data-unblock-the-training-data-bottleneck)
 - [Representation Learning](#representation-learning)
 
 
-## Internal Coherence Maximisation (CIM) Implementation
+## Internal Coherence Maximisation (ICM) Implementation
 A core problem in training smarter-than-human AI systems is providing a reliable feedback signal to the AI's outputs. Human labelling of outputs suffers from being too expensive, and potentially inaccurate for tasks that exceed human ability. [Wen et al. (2025)](https://arxiv.org/abs/2506.10139) develop the ICM algorithm to generate labels without human supervision, by choosing the label set that maximises a combination of (a). internal coherence **between the generated label set**, and (b) logical consistency. I implemented this [here](https://github.com/IyngkarranKumar/ICM_implementation/tree/main).
 
 ## Can synthetic data unblock the training data bottleneck?

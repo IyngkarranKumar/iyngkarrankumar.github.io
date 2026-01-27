@@ -5,10 +5,13 @@ title: "Projects"
 <style>
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.5em;
+  grid-template-columns: repeat(2, minmax(400px, 500px));
+  gap: 2rem;
   padding: 0;
+  padding-left: 5rem;
   list-style: none;
+  margin-top: 2rem;
+  justify-content: center;
 }
 .project-card {
   border: 1px solid 
@@ -33,6 +36,7 @@ title: "Projects"
   color: #666;
 }
 </style>
+
 <ul class="projects-grid">
   {% assign sorted_projects = site.projects | sort: 'order' %}
   {% for project in sorted_projects %}

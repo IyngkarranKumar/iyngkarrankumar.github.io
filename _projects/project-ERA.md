@@ -1,7 +1,7 @@
 ---
 title: Cyberattacks from Advanced Autonomous AI - A case-study with Advanced Persistent Threats (APTs)
 layout: home
-excerpt: Studying APTs to understand how extremely capable AIs might carry out cyberattacks (ERA fellowship)
+excerpt: Studying APTs to understand how advanced autonomous AIs might carry out cyberattacks (ERA fellowship)
 order: 4
 ---
 
